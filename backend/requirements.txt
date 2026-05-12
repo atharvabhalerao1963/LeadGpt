@@ -27,3 +27,4 @@ groq
 
 pydantic
 python-dotenv
+prophet
