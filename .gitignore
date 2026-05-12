@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+vector_db/
+reports/
+
+frontend/.streamlit/
+
+.ipynb_checkpoints/
+
+*.sqlite3
